@@ -1,0 +1,35 @@
+# Data Respresentation - Assignment 1.1
+# Author: Jamie Tohall
+
+# Create an XML file and add to your repository 
+# The library has two catalogues (technical books, and for cookery books).
+# Each catalogue can contain a number of books (say 2 for the purpose of this exercise). 
+# Books will have an ISBN, title and author. 
+
+<?xml version="1.0" ?>
+
+<Library>
+    <Catalogue type="Technical">
+        <Book ISBN="9781491957660">
+            <Title="Python for Data Analysis">
+            <Author="Wes McKinney">
+        </Book>
+        <Book ISBN="9781449373320">
+            <Title="Designing Data-Intensive Applications">
+            <Author="Martin Kleppmann">
+        </Book>
+    </Catalogue>
+    <Catalogue type="Cookery">
+        <Book ISBN="9780241431108">
+            <Title="One: Simple One-Pan Wonders">
+            <Author="Jamie Oliver">
+        </Book>
+        <Book ISBN="9781529903522">
+            <Title="Bored of Lunch: The Healthy Air Fryer Book">
+            <Author="Nathan Anthony">
+        </Book>
+    </Catalogue>
+</Library>
+
+
+
