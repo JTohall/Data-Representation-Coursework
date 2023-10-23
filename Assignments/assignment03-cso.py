@@ -15,6 +15,9 @@ def getalldata():
     return response.json()
 
 if __name__ == "__main__":
-    #print(getalldata())
+    
     with open("cso.json", "w") as f:
-        print(json.dumps(getalldata()), file=f)
+        print(json.dumps(getalldata()),file=f)
+           
+           
+        
