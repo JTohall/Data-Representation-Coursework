@@ -1,6 +1,16 @@
 # Data-Representation-Coursework
-Coursework for Data Representation module 2023
+Coursework for Data Representation<br/>
+ATU 2023<br/>
 
-## Assignment 1 - XML
+Jamie Tohall<br/>
+G00411380
 
-## Assignment 3 - CSO
+***
+
+**Assignment 1 - XML**
+
+***
+
+**Assignment 3 - CSO**
+
+
